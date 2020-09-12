@@ -20,16 +20,16 @@ The model has been executed for 50 epochs
     Accuracy of truck : 92 %
 
 
-# Jupyter Notebook File reference executed in Colab
+## Jupyter Notebook File reference executed in Colab
 [https://github.com/jai-mr/Assignment-7/blob/master/07_CodeFinal.ipynb](https://github.com/jai-mr/Assignment-7/blob/master/07_CodeFinal.ipynb)
 
-# Training/Test - Loss & Accuracy Curve
+## Training/Test - Loss & Accuracy Curve
 [https://github.com/jai-mr/Assignment-7/blob/master/images/accuracy.png](https://github.com/jai-mr/Assignment-7/blob/master/images/accuracy.png)
 
-# Test vs Train Accuracy
+## Test vs Train Accuracy
 [https://github.com/jai-mr/Assignment-7/blob/master/images/testvtrain.png](https://github.com/jai-mr/Assignment-7/blob/master/images/testvtrain.png)
 
-# Mis-Classified Images
+## Mis-Classified Images
 [https://github.com/jai-mr/Assignment-7/blob/master/images/misclassification.png](https://github.com/jai-mr/Assignment-7/blob/master/images/misclassification.png)
 
 
